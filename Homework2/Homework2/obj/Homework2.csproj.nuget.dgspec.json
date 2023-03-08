@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\New folder\\Homework1\\Homework1\\Homework1.csproj": {}
+    "C:\\New folder\\C-SharpHomeworks\\Homework2\\Homework2\\Homework2.csproj": {}
   },
   "projects": {
-    "C:\\New folder\\Homework1\\Homework1\\Homework1.csproj": {
+    "C:\\New folder\\C-SharpHomeworks\\Homework2\\Homework2\\Homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\New folder\\Homework1\\Homework1\\Homework1.csproj",
-        "projectName": "Homework1",
-        "projectPath": "C:\\New folder\\Homework1\\Homework1\\Homework1.csproj",
+        "projectUniqueName": "C:\\New folder\\C-SharpHomeworks\\Homework2\\Homework2\\Homework2.csproj",
+        "projectName": "Homework2",
+        "projectPath": "C:\\New folder\\C-SharpHomeworks\\Homework2\\Homework2\\Homework2.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\New folder\\Homework1\\Homework1\\obj\\",
+        "outputPath": "C:\\New folder\\C-SharpHomeworks\\Homework2\\Homework2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
