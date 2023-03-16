@@ -1,0 +1,15 @@
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\bin\Debug\net6.0\Homework4.exe
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\bin\Debug\net6.0\Homework4.deps.json
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\bin\Debug\net6.0\Homework4.runtimeconfig.json
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\bin\Debug\net6.0\Homework4.dll
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\bin\Debug\net6.0\Homework4.pdb
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.csproj.AssemblyReference.cache
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfoInputs.cache
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfo.cs
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.csproj.CoreCompileInputs.cache
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.dll
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\refint\Homework4.dll
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.pdb
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\Homework4.genruntimeconfig.cache
+C:\New folder\C-SharpHomeworks\Homework4\Homework4\obj\Debug\net6.0\ref\Homework4.dll
